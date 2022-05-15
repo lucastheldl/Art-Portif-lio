@@ -2,4 +2,21 @@
   background-color: rgb(221, 221, 221);
   height: 200px;
   margin-bottom: 50px;
+
+  //height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  div {
+    h1 {
+      line-height: 100px
+    }
+  }
+}
+
+#about {
+  background-color: rgb(221, 221, 221);
+  height: 500px;
+  margin-top: 50px;
 }
